@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand img{
+    width: 50px;
+    margin-left: 36%;
+}
+.navItems{
+    margin-right: 5%;
+}
+.navItems ul li{
+    color: white; /* Replace with your desired color */
+    list-style: none;
+    align-items: center;
+  }
+  .navbar{
+    height: 67px;
+    padding-top: 1.5%;
+  }
+  .navItems ul{
+    display: flex;
+    gap: 3rem;
+  }
+
+  #search{
+    border: 2px solid white;
+    padding: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .fa-magnifying-glass{
+    margin-top: 2px !important;
+    margin-right: 5px;
+  }
+  #heart{
+  margin-top: 13px;
+  }
