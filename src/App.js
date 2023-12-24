@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import Home from "./component/Home.jsx"
-
 import './App.css';
 
 function App() {
