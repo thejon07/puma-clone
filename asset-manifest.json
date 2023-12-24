@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/puma-clone/static/css/main.098d738a.css",
+    "main.js": "/puma-clone/static/js/main.eac74904.js",
+    "static/js/787.d4aba7ab.chunk.js": "/puma-clone/static/js/787.d4aba7ab.chunk.js",
+    "static/media/kids1.jpg": "/puma-clone/static/media/kids1.dbbf9e2d56ad5b3d88c8.jpg",
+    "static/media/kids4.jpg": "/puma-clone/static/media/kids4.d7d4b9732f87b1496ed6.jpg",
+    "static/media/mature2.jpg": "/puma-clone/static/media/mature2.9da663bf4f4cdb1b2f16.jpg",
+    "static/media/email.jpg": "/puma-clone/static/media/email.ef9aa45bbdd3f81301e6.jpg",
+    "static/media/mature4.jpg": "/puma-clone/static/media/mature4.b1612b3d9274b5447f63.jpg",
+    "static/media/kids3.jpg": "/puma-clone/static/media/kids3.5f4213816cef2cf16bc7.jpg",
+    "static/media/kids2.jpg": "/puma-clone/static/media/kids2.e06e93be7fcc85c852d0.jpg",
+    "static/media/feature5.jpg": "/puma-clone/static/media/feature5.f6454f6bbae3bf5948b1.jpg",
+    "static/media/feature4.jpg": "/puma-clone/static/media/feature4.1fb000ab7206d4b74693.jpg",
+    "static/media/mature1.jpg": "/puma-clone/static/media/mature1.0e6260efa0a5f1896a3b.jpg",
+    "static/media/new.webp": "/puma-clone/static/media/new.219772ac38deaaa8888d.webp",
+    "static/media/feature3.webp": "/puma-clone/static/media/feature3.6611bc9ea40efbd9a35c.webp",
+    "static/media/feature1.webp": "/puma-clone/static/media/feature1.8100ed0685562ac12c2c.webp",
+    "static/media/feature2.webp": "/puma-clone/static/media/feature2.51682d4f3337da4f93e9.webp",
+    "static/media/feature7.jpg": "/puma-clone/static/media/feature7.9fd8b17ab2694e4fb831.jpg",
+    "static/media/mature3.jpg": "/puma-clone/static/media/mature3.a23fab2316809766ef00.jpg",
+    "static/media/puma1.avif": "/puma-clone/static/media/puma1.3d4d7bf001593d6eec6c.avif",
+    "static/media/feature6.jpg": "/puma-clone/static/media/feature6.63eb5135792d21b2e514.jpg",
+    "static/media/fashion5.webp": "/puma-clone/static/media/fashion5.afcd3a15342590107b2e.webp",
+    "static/media/fashion1.webp": "/puma-clone/static/media/fashion1.67c6ef5cb30bd3015e17.webp",
+    "static/media/fashion7.webp": "/puma-clone/static/media/fashion7.434c87b52724f17d5d75.webp",
+    "static/media/fashion6.webp": "/puma-clone/static/media/fashion6.dfe004bac6a498e97954.webp",
+    "static/media/fashion3.webp": "/puma-clone/static/media/fashion3.66ffabbaa289a8f40add.webp",
+    "static/media/fashion4.webp": "/puma-clone/static/media/fashion4.f07499a446860db9e520.webp",
+    "static/media/slick.svg": "/puma-clone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/puma-clone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/puma-clone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/puma-clone/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/puma-clone/index.html",
+    "main.098d738a.css.map": "/puma-clone/static/css/main.098d738a.css.map",
+    "main.eac74904.js.map": "/puma-clone/static/js/main.eac74904.js.map",
+    "787.d4aba7ab.chunk.js.map": "/puma-clone/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.098d738a.css",
+    "static/js/main.eac74904.js"
+  ]
+}
