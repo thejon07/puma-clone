@@ -2,12 +2,6 @@ import React from 'react'
 import Slider from 'react-slick'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import fashion1 from "../fashion1.webp"
-import fashion3 from "../fashion3.webp"
-import fashion4 from "../fashion4.webp"
-import fashion5 from "../fashion5.webp"
-import fashion6 from "../fashion6.webp"
-import fashion7 from "../fashion7.webp"
 import "./main.css"
 
 export default function Main() {
