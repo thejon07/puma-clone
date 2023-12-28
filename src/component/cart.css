@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cart button:hover{
+    background-color: green;
+}
+.cart button{
+    border: 1px solid gray;
+    background-color: black;
+    color: aliceblue;
+    padding: 8px;
+}
+.cart{
+    text-align: center;
+    align-items: center;
+    margin-top: 20%;
+}

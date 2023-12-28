@@ -1,10 +1,10 @@
 import Home from "./component/Home.jsx"
-import './App.css';
+import './App.css'; 
 
 function App() {
   return (
     <div >
-    <Home/>
+      <Home/>
     </div>
   );
 }

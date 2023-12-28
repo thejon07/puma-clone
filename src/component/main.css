@@ -13,7 +13,7 @@
     padding-left: 6%;
     padding-top: 5%;
 }
-button{
+.button{
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
@@ -234,6 +234,7 @@ button{
     align-items: center;
     margin-top: 3%;
     margin-left: 4%;
+    border: none;
    }
   footer{
     align-items: center;
@@ -251,4 +252,49 @@ button{
   footer p{
     text-align: center;
     color: white;
+  }
+  @media screen and (max-width: 767px){
+    .same{
+        align-items: center;
+        padding-top: 83px;
+        font-size: small;
+    }
+    .same h4{
+        font-size: small;
+    }
+    .same h1{
+        font-size: medium;
+    }
+    .block{
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .card{
+        width: 345px;
+        height: 66vh;
+        object-fit: cover;
+        background-size: cover;
+    }
+    .text h6{
+        font-size: small;
+    }
+    .card1{
+        margin-left: 15px;
+    }
+    .card2{
+        margin-top: 13px
+    }
+    .cards3{
+        width: 200px;
+    }
+    .footer{
+        padding-top: 75px;
+        height: 38vh;
+    }
+    .footer h5{
+        font-size: medium;
+    }
+    .footer p {
+        font-size: small;
+    }
   }
